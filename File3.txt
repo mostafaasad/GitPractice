@@ -1,3 +1,4 @@
 This is the content of the new file
 
 Stashed changes
+Additional v2.0 changes
